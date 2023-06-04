@@ -1,0 +1,12 @@
+﻿  fb.cpp
+C:\Users\Scorpio\Desktop\projects\facbook\facbook\fb.cpp(61,29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Scorpio\Desktop\projects\facbook\facbook\fb.cpp(61,1): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\Scorpio\Desktop\projects\facbook\facbook\fb.cpp(61,29): warning C4309: 'initializing': truncation of constant value
+C:\Users\Scorpio\Desktop\projects\facbook\facbook\fb.cpp(160,13): warning C4101: 'T': unreferenced local variable
+C:\Users\Scorpio\Desktop\projects\facbook\facbook\fb.cpp(597,20): warning C4584: 'Post': base-class 'helper' is already a base-class of 'comments'
+C:\Users\Scorpio\Desktop\projects\facbook\facbook\fb.cpp(7): message : see declaration of 'helper'
+C:\Users\Scorpio\Desktop\projects\facbook\facbook\fb.cpp(443): message : see declaration of 'comments'
+C:\Users\Scorpio\Desktop\projects\facbook\facbook\fb.cpp(832,34): warning C4101: 'friends': unreferenced local variable
+C:\Users\Scorpio\Desktop\projects\facbook\facbook\fb.cpp(832,45): warning C4101: 'liked_pages': unreferenced local variable
+C:\Users\Scorpio\Desktop\projects\facbook\facbook\fb.cpp(1410,55): warning C4101: 'comm_text': unreferenced local variable
+  facbook.vcxproj -> C:\Users\Scorpio\Desktop\projects\facbook\x64\Debug\facbook.exe
